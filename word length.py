@@ -1,3 +1,3 @@
 name = ("Сергей Никифоров")
 print(name)
-len(name, )
+print(len(name))
