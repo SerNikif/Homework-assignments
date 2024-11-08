@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher.filters.state import State, StatesGroup
 
-api = "7205614445:AAE8PDk_UkuunWQvgQ94QKwt1O6rF9PmO28"
+api = "720561444................28"
 bot = Bot(token=api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
